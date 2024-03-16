@@ -1,0 +1,24 @@
+# Unity generated
+/Library/
+/ProjectSettings/ProjectVersion.txt
+/ProjectSettings/UnityConnectSettings.asset
+
+# Visual Studio / MonoDevelop generated
+*.sln
+*.csproj
+*.pidb
+*.userprefs
+/*.csproj
+
+# Mac generated files
+.DS_Store
+
+# User-specific files
+*.user
+*.user.meta
+
+# Build files
+/Builds/
+/*.apk
+/*.unitypackage
+
