@@ -353,6 +353,7 @@
 -analyzer:"C:/Program Files/Unity 2022.3.17f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity 2022.3.17f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/script/Bullet3.cs"
+"Assets/script/metarial.cs"
 "Assets/script/Queue.cs"
 "Assets/script/stackreal.cs"
 -langversion:9.0
